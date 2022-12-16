@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
-      initialRoute: Routes.Detail,
+      initialRoute: Routes.HOME,
       enableLog: true,
       theme: ThemeData(
         // This is the theme of your application.
